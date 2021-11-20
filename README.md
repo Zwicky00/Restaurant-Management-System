@@ -1,4 +1,4 @@
-# Restaurent-Management-System
+# Restaurant-Management-System
 # Goals of the Project
 1.To create a website that will allow customers to order delicious food and to reserve table.<br />
 
